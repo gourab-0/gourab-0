@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourab Ghosh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer & cyber security analysts from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourab-0&label=Profile%20views&color=0e75b6&style=flat" alt="gourab-0" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👯 I’m looking to collaborate on **Calories counter app**
+- 👯 I’m looking to collaborate on **Vulnerability Sacnner**
 
-- 🤝 I’m looking for help with **Calories counter app**
+- 🤝 I’m looking for help with **Vulnerability Sacnner**
 
 - 📫 How to reach me **gourabghosh828@gmail.com**
 
