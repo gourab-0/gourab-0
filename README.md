@@ -30,10 +30,9 @@ I'm a passionate **Web Developer** and **Cyber Security Analyst** from India wit
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   &nbsp;
-  <!-- Replace YOUR_LINKEDIN_USERNAME below and uncomment when ready -->
-  <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+  <a href="https://www.linkedin.com/in/gourab-ghosh-zecuron" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a> -->
+  </a>
 </p>
 
 ---
@@ -104,13 +103,15 @@ I'm a passionate **Web Developer** and **Cyber Security Analyst** from India wit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourab-0&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gourab-0&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gourab-0&show_icons=true&theme=tokyonight&locale=en&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourab-0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gourab-0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -119,7 +120,7 @@ I'm a passionate **Web Developer** and **Cyber Security Analyst** from India wit
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gourab-0&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gourab-0&theme=tokyonight&margin-w=4" alt="Trophies" />
   </a>
 </p>
 
