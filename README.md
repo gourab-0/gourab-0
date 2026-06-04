@@ -103,25 +103,11 @@ I'm a passionate **Web Developer** and **Cyber Security Analyst** from India wit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourab-0&show_icons=true&theme=tokyonight&locale=en&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourab-0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gourab-0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gourab-0&theme=tokyonight&margin-w=4" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gourab-0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
